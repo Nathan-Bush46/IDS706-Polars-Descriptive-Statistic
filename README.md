@@ -1,14 +1,16 @@
 # IDS-Descriptive-Statistics 
 
-[![Docker Image CI Main](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/main.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/main.yml)
+[![Docker Image CI Main](https://github.com/Nathan-Bush46/IDS706-Polars-Descriptive-Statistic/actions/workflows/main.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Polars-Descriptive-Statistic/actions/workflows/main.yml)
 
-[![Docker Image CI Test](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/test.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/test.yml)
+[![Docker Image CI Test](https://github.com/Nathan-Bush46/IDS706-Polars-Descriptive-Statistic/actions/workflows/test.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Polars-Descriptive-Statistic/actions/workflows/test.yml)
 
-[![Docker Image CI Format](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/format.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/format.yml)
+[![Docker Image CI Format](https://github.com/Nathan-Bush46/IDS706-Polars-Descriptive-Statistic/actions/workflows/format.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Polars-Descriptive-Statistic/actions/workflows/format.yml)
 
-[![Docker Image CI Install](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/install.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/install.yml)
+[![Docker Image CI Install](https://github.com/Nathan-Bush46/IDS706-Polars-Descriptive-Statistic/actions/workflows/install.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Polars-Descriptive-Statistic/actions/workflows/install.yml)
 
-[![Docker Image CI Lint](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/lint.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/lint.yml)
+[![Docker Image CI Lint](https://github.com/Nathan-Bush46/IDS706-Polars-Descriptive-Statistic/actions/workflows/lint.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Polars-Descriptive-Statistic/actions/workflows/lint.yml)
+
+
 
 ## Quick Explanation
 
