@@ -10,18 +10,16 @@
 
 [![Docker Image CI Lint](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/lint.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-Project-1/actions/workflows/lint.yml)
 
-## Demo Video
-
-https://youtu.be/4M5TUXnW9u8
-
 ## Quick Explanation
 
-* Creates descriptive statistics and outputs them as a pdf and image into [`data folder`](./src/main_workspace/outputs) using [`python script`](./src/main_workspace/stats_pdf.py)
+* Creates descriptive statistics using polars and pandas and outputs them as a pdf and image into [`data folder`](./src/main_workspace/outputs) using [`python script`](./src/main_workspace/stats_pdf.py)
 * CI/CD pipline also auto runs script to update [`pdf and image`](./src/main_workspace/outputs)
 
 * jupyter Notebook with: 
-    * Cells that perform descriptive statistics using Polars or Panda.
+    * Cells that perform descriptive statistics using Polars and Panda.
     * Tested by using nbval plugin for pytest
+ 
+* [`polars-ex`](src/main_workspace/polars_example.py) shows example of polars data gen
 
 ## Set up instructions using VS code + Docker: 
 ### Docker
